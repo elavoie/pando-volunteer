@@ -1,0 +1,27 @@
+{
+  "name": "pando-volunteer",
+  "version": "1.0.0",
+  "description": "Contribute to a pando computing network.",
+  "bin": {
+    "pando-volunteer": "bin/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elavoie/pando-volunteer.git"
+  },
+  "keywords": [
+    "pando-computing"
+  ],
+  "author": "Erick Lavoie",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/elavoie/pando-volunteer/issues"
+  },
+  "homepage": "https://github.com/elavoie/pando-volunteer#readme",
+  "dependencies": {
+    "electron-eval": "^0.9.9"
+  }
+}
